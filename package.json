@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Eom-Ye-rim/Kw_ic_Web/issues"
   },
-  "homepage": "https://github.com/Eom-Ye-rim/Kw_ic_Web#readme"
+  "homepage": "https://github.com/Eom-Ye-rim/Kw_ic_Web#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
